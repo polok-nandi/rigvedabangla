@@ -23,15 +23,15 @@
 
 এই Repository-তে ১০টি মণ্ডলের জন্য আলাদা ১০টি ফাইল রয়েছে:
 
-- `mandala_1.json` - ১ম মণ্ডল
-- `mandala_2.json` - ২য় মণ্ডল
-- `mandala_3.json` - ৩য় মণ্ডল
-- `mandala_4.json` - ৪র্থ মণ্ডল
-- `mandala_5.json` - ৫োম মণ্ডল
-- `mandala_6.json` - ৬ষ্ঠ মণ্ডল
-- `mandala_7.json` - ৭ম মণ্ডল
-- `mandala_8.json` - ৮ম মণ্ডল
-- `mandala_9.json` - ৯ম মণ্ডল
+- `mandala_01.json` - ১ম মণ্ডল
+- `mandala_02.json` - ২য় মণ্ডল
+- `mandala_03.json` - ৩য় মণ্ডল
+- `mandala_04.json` - ৪র্থ মণ্ডল
+- `mandala_05.json` - ৫োম মণ্ডল
+- `mandala_06.json` - ৬ষ্ঠ মণ্ডল
+- `mandala_07.json` - ৭ম মণ্ডল
+- `mandala_08.json` - ৮ম মণ্ডল
+- `mandala_09.json` - ৯ম মণ্ডল
 - `mandala_10.json` - ১০ম মণ্ডল
 
 ---
